@@ -1,0 +1,29 @@
+h3 {
+    color: black;
+    font-weight: 6000;
+    font-size: 250%
+}
+h4{
+    color: #d8da3d;
+    font-weight: 10000;
+    font-size: small;
+}
+h5{
+    color:blueviolet;
+    font-weight: 700;
+    font-size: medium;
+}
+h6{
+    color: darkgoldenrod;
+    font-weight: 600;
+    font-size: medium;
+}
+table{
+    border: 1px solid;
+}
+.text-justify {
+    text-align: justify;
+  }
+  selector {
+    opacity: 0.70;
+  }
